@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\chong\\Documents\\Skewl\\Term_4\\50-001\\Week-11\\UDOOTestStart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\chong\\.android\\build-cache\\f3a3293eac566eca6e897aa26ca28213f1cf58b4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\chong\\Documents\\Skewl\\Term_4\\50-001\\Week-11\\UDOOTestStart\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\chong\\.android\\build-cache\\f3a3293eac566eca6e897aa26ca28213f1cf58b4\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\chong\\Documents\\Skewl\\Term_4\\50-001\\Week-11\\UDOOTestStart\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\chong\\.android\\build-cache\\f3a3293eac566eca6e897aa26ca28213f1cf58b4\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\chong\\Documents\\Skewl\\Term_4\\50-001\\Week-11\\UDOOTestStart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\chong\\.android\\build-cache\\f3a3293eac566eca6e897aa26ca28213f1cf58b4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\chong\\Documents\\Skewl\\Term_4\\50-001\\Week-11\\UDOOTestStart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\chong\\.android\\build-cache\\f3a3293eac566eca6e897aa26ca28213f1cf58b4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\chong\\Documents\\Skewl\\Term_4\\50-001\\Week-11\\UDOOTestStart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\chong\\.android\\build-cache\\f3a3293eac566eca6e897aa26ca28213f1cf58b4\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\chong\\Documents\\Skewl\\Term_4\\50-001\\Week-11\\UDOOTestStart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\chong\\.android\\build-cache\\f3a3293eac566eca6e897aa26ca28213f1cf58b4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\chong\\Documents\\Skewl\\Term_4\\50-001\\Week-11\\UDOOTestStart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\chong\\.android\\build-cache\\f3a3293eac566eca6e897aa26ca28213f1cf58b4\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\chong\\Documents\\Skewl\\Term_4\\50-001\\Week-11\\UDOOTestStart\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\chong\\.android\\build-cache\\f3a3293eac566eca6e897aa26ca28213f1cf58b4\\output\\res\\color\\abc_search_url_text.xml"
+    }
+]

@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:9:5-33:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\chong\.android\build-cache\b6cff78361e2be2005d488c750178b6d8acc3275\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\chong\.android\build-cache\f3a3293eac566eca6e897aa26ca28213f1cf58b4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\chong\.android\build-cache\748d3b9fc9cb25e7a95e594841693857a0bd6c88\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\chong\.android\build-cache\c5966b159961fc66d8de4b9140821cee34126b41\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\chong\.android\build-cache\64993d22ce477607d2521a5531a64dd075dc1988\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:13:9-40
+activity#xbee.udootest.MainActivity
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:14:9-32:20
+	android:label
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:20:27-74
+intent-filter#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:24:13-26:29
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:25:17-93
+	android:name
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:25:25-90
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:30:13-31:60
+	android:resource
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:31:17-57
+	android:name
+		ADDED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml:30:24-89
+uses-sdk
+INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] C:\Users\chong\.android\build-cache\b6cff78361e2be2005d488c750178b6d8acc3275\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\chong\.android\build-cache\9ed2fbf1b5603dbe389d1ce365df65f77f072ee8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\chong\.android\build-cache\f3a3293eac566eca6e897aa26ca28213f1cf58b4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\chong\.android\build-cache\748d3b9fc9cb25e7a95e594841693857a0bd6c88\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\chong\.android\build-cache\c5966b159961fc66d8de4b9140821cee34126b41\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\chong\.android\build-cache\64993d22ce477607d2521a5531a64dd075dc1988\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\chong\.android\build-cache\f3a3293eac566eca6e897aa26ca28213f1cf58b4\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\src\main\AndroidManifest.xml

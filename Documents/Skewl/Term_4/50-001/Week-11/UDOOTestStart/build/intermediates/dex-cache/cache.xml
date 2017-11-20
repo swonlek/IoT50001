@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_bfff9fa3a8f84ab524b9bdd7f84d74d695814a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\tubesock-0.0.11_05e3b59fe2cf80490fdafa9016e315dfa547e285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\tubesock-0.0.11_05e3b59fe2cf80490fdafa9016e315dfa547e285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\9ed2fbf1b5603dbe389d1ce365df65f77f072ee8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_9fac9ee648ea39b517e58951d228c4740985d346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\64993d22ce477607d2521a5531a64dd075dc1988\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_998fc86edd6d7aeee2f5c43ab60d75600fb24db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\f3a3293eac566eca6e897aa26ca28213f1cf58b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_a8e1f3cf9ea2361611820a7ed155e0a8bb43e32d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\libs\weka.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0c00e71c2d59ef4f1b1a1d3845ebc4f0a1dddc1">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\weka_12499f667f4bb5ac853d1b8afd53e463c36bf62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\libs\libsvm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57ebf17621802dfa0085eceb90976095317bc75d">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\libsvm_f314195454a71fd165144b04847832fbbeca8961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\libs\libsvm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57ebf17621802dfa0085eceb90976095317bc75d">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\libsvm_f314195454a71fd165144b04847832fbbeca8961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\64993d22ce477607d2521a5531a64dd075dc1988\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_998fc86edd6d7aeee2f5c43ab60d75600fb24db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\libs\weka.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0c00e71c2d59ef4f1b1a1d3845ebc4f0a1dddc1">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\weka_12499f667f4bb5ac853d1b8afd53e463c36bf62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\f3a3293eac566eca6e897aa26ca28213f1cf58b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_a8e1f3cf9ea2361611820a7ed155e0a8bb43e32d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.2.4\b797b9bfb5edb54473a55ece366ead72102803bc\firebase-client-jvm-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b797b9bfb5edb54473a55ece366ead72102803bc">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.2.4_ce2183e837b87100b92c48d4f6890545f2d98d7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_90ffc750c90021d6b4509c55b85579dbb01c0753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\9ed2fbf1b5603dbe389d1ce365df65f77f072ee8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_9fac9ee648ea39b517e58951d228c4740985d346.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\64993d22ce477607d2521a5531a64dd075dc1988\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_b161d10099d82cf7beed9712569db977d9d8e5ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.2.4\b797b9bfb5edb54473a55ece366ead72102803bc\firebase-client-jvm-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b797b9bfb5edb54473a55ece366ead72102803bc">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.2.4_ce2183e837b87100b92c48d4f6890545f2d98d7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_90ffc750c90021d6b4509c55b85579dbb01c0753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\64993d22ce477607d2521a5531a64dd075dc1988\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_b161d10099d82cf7beed9712569db977d9d8e5ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\b6cff78361e2be2005d488c750178b6d8acc3275\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_6a22c6dfe782f9f5ed1d3286ac99c53a8eb8f034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\b6cff78361e2be2005d488c750178b6d8acc3275\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_6a22c6dfe782f9f5ed1d3286ac99c53a8eb8f034.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\libs\adktoolkit-0.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5dede12c6641ce78bb875a79c7652d403f44fc8">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\adktoolkit-0.2.0_1b97486bc203f5a3169a5bd247d2462957e5190c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_a004d81ffee60f23fa730aec5c26ab29accf94ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.2.4\d952dbeacf5269df1d2d2321cdbb165dc37c82b3\firebase-client-android-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d952dbeacf5269df1d2d2321cdbb165dc37c82b3">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.2.4_00cfef0e74c6297f2a8fd2822c889759803160b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.2.4\d952dbeacf5269df1d2d2321cdbb165dc37c82b3\firebase-client-android-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d952dbeacf5269df1d2d2321cdbb165dc37c82b3">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.2.4_00cfef0e74c6297f2a8fd2822c889759803160b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\748d3b9fc9cb25e7a95e594841693857a0bd6c88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_e9c7e2b66ae674f27d897d35a223a8f63c85ed68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\748d3b9fc9cb25e7a95e594841693857a0bd6c88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_e9c7e2b66ae674f27d897d35a223a8f63c85ed68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\c5966b159961fc66d8de4b9140821cee34126b41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_5f8ad41d3ed3dbd9a4006c341f8bcb23c80a07f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_bfff9fa3a8f84ab524b9bdd7f84d74d695814a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_58073e44fea496b6047e0facfbfb5a392a49a6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_a004d81ffee60f23fa730aec5c26ab29accf94ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\libs\wlsvm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4162b20ddc4d2de2f3e66b8ae3e9ef8e3a434697">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\wlsvm_5a40324c50171ac1349090274038851d9ec91012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_58073e44fea496b6047e0facfbfb5a392a49a6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\libs\wlsvm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4162b20ddc4d2de2f3e66b8ae3e9ef8e3a434697">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\wlsvm_5a40324c50171ac1349090274038851d9ec91012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\libs\adktoolkit-0.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5dede12c6641ce78bb875a79c7652d403f44fc8">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\adktoolkit-0.2.0_1b97486bc203f5a3169a5bd247d2462957e5190c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chong\.android\build-cache\c5966b159961fc66d8de4b9140821cee34126b41\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\chong\Documents\Skewl\Term_4\50-001\Week-11\UDOOTestStart\app\build\intermediates\pre-dexed\debug\classes_5f8ad41d3ed3dbd9a4006c341f8bcb23c80a07f2.jar" />
+    </item>
+
+</items>
