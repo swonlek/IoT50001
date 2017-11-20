@@ -102,7 +102,7 @@ public class MainActivity extends Activity{
                 double pred =  ibk.classifyInstance(test.instance(i));
                 double act = test.instance(i).classValue();
                 // TODO: compare  prediction results with actual class label
-
+                // test
             }
             // TODO: report number of correct and incorrect classifications
         } catch (FileNotFoundException e) {
